@@ -1,0 +1,64 @@
+#bg {
+    width:100%;
+    min-height:100%;
+    height:auto!important;
+    position:fixed;
+    top:0px;
+    left:0px;
+    overflow:hidden;
+    border:0px;
+    z-index:-9;
+    float:left;
+}
+
+#form {
+    background: rgba(255, 255, 255, .9);
+    margin: auto;
+    display: block;
+    width: 30%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 5em;
+    border-radius: 1em;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+#appFormOld {
+    margin: auto;
+    display: block;
+    width: 40%;
+    height: 98%;
+    border-radius: 1em;
+}
+
+#viewMap {
+    float: right;
+    border: 0px;
+    margin: 5px 5px 0 0;
+    position: absolute;
+    top: 0px;
+    right: 21px;
+}
+
+#goMap {
+    float: right;
+    border: 0px;
+    margin: 5px 5px 0 0;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+#display {
+    color: white;
+    background: rgba(0,0,0,.5);
+    border-radius: 1em;
+    padding: 1em;
+}
+
+#display input {
+    color: black;
+}
