@@ -1,0 +1,29 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+
+
+.slide {
+	background-color: rgba(0,0,0,.5);
+	border-radius: 25px;
+}
+
+.quoteTitle {
+	color: white
+}
+
+.justify {
+	text-align: justify;
+}
+
+.left {
+	position: left;
+}
+
+.shadowbox {
+	padding: 30px;
+}
